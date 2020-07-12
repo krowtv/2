@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+7/
 <!--
 	Multiverse by HTML5 UP
 	html5up.net | @ajlkn
